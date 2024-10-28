@@ -81,9 +81,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://play-lh.googleusercontent.com/4uaEj3JqtzKdMYei48166qVSHpaGH2xZE5oYz7MVHlL0ooGHnLZmCBIR_kZT7ytnKQ",
-        description: "Your instant gateway to seamless and expressive conversations. Connect with ease, share moments, and make every chat memorable.",
-        link: "#",
+        img: "https://i.pinimg.com/originals/57/59/40/575940e83a030d14c6a7472a1ea6baad.png",
+        description: "It is a hotel booking platform that allows users to search, filter, and reserve accommodations based on their preferences.",
+        link: "https://github.com/kshitij583415/AaramKaksha",
     },
     {
         img: "https://i.pinimg.com/originals/53/8c/32/538c32489d4b9ea44ff34f63e41ca14c.png",
@@ -91,30 +91,26 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://th.bing.com/th/id/OIP.WqJLkKbRNWOH-FguxGnVTQHaHa?w=192&h=192&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-        description: "Discover curated products and seamless shopping on our E-commerce Website. Elevate your online shopping experience with secure transactions and personalized recommendations.",
-        link: "#",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkX8vOpKNkbShi7TelLa-JvKFvBxYMKl-8OQ&s",
+        description: "A Hospital Resource Management System that connects users to available blood, platelets, and oxygen in different.",
+        link: "https://github.com/kshitij583415/CareJeevan",
     },
+   
+    
     {
         img: "https://th.bing.com/th/id/OIP.bf_Um5shxy9Snj8HbRR0ZAHaHa?rs=1&pid=ImgDetMain",
         description: "Boost your productivity with our Todo List app – your ultimate task management companion. Effortlessly organize your day, set priorities, and track your accomplishments, ensuring you stay focused and on top of your goals.",
         link: "#",
     },
     {
-        img: "https://th.bing.com/th/id/OIP.XEycAeqBiRMbExrzSgUgPwHaHN?w=188&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-        description: "Unlock hassle-free scheduling and convenience with our Booking App. Seamlessly book appointments, services, or events, all in one place, providing you with a streamlined and efficient way to manage your reservations effortlessly.",
-        link: "#",
+        img: "https://lenadesign.org/wp-content/uploads/2021/03/train.jpg",
+        description: "The Railway Management application is an Object-Oriented Programming (OOP) project designed to streamline and automate various aspects of railway operations.",
+        link: "https://github.com/kshitij583415/Flight-Management",
     },
-    {
-        img: "https://webstockreview.net/images/life-clipart-quality-life-2.png",
-        description: "Elevating quality of life through our EDA project, we harness data insights to enhance well-being, foster sustainable practices, and create a positive impact on communities.",
-        link: "#",
-    },
-
     {
         img: "https://www.admissionfever.com/Media/clgimg/gallery/44384_img8167798265878378.jpg",
         description: "I enhanced a DUGC website tailored for use by college coordinators and chairman. The website features functionalities such as ISA and lab analysis, circular eligibility checks, and course withdrawal options. ",
-        link: "#",
+        link: "https://github.com/kshitij583415/DUGC_main.git",
     },
     // {
     //     img: "https://picsum.photos/400/300/?grayscale",
@@ -140,20 +136,12 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://www.linkedin.com/in/Kshitij-kanaujia-787872269/",
-    twitter: "https://twitter.com",
+    github: "https://github.com/kshitij583415",
+    linkedin: "https://www.linkedin.com/in/kshitijsingh58",
+    twitter: "https://x.com/Kshitij52_",
 };
 export {
-    meta,
-    dataabout,
-    dataportfolio,
-    worktimeline,
-    skills,
-    services,
-    introdata,
-    contactConfig,
-    socialprofils,
-    logotext,
+    contactConfig, dataabout,
+    dataportfolio, introdata, logotext, meta, services, skills, socialprofils, worktimeline
 };
+
